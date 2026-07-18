@@ -14,7 +14,9 @@ All reports are **fully dynamic**, meaning every chart, KPI, and visualization u
 
 ### 🎯 Interactive Slicers
 
-![Jobs Salary Dashboard](images/Slicers.png)
+<p align="center">
+  <img src="images/Slicers.png" alt="Slicers.png" width="1000">
+</p>
 
 The dashboard includes three slicers at the top:
 
