@@ -14,6 +14,8 @@ All reports are **fully dynamic**, meaning every chart, KPI, and visualization u
 
 ### 🎯 Interactive Slicers
 
+![Jobs Salary Dashboard](images/Slicers.png)
+
 The dashboard includes three slicers at the top:
 
 * **Job Category** – Filter data by a specific job title (e.g., Business Analyst, Data Analyst, Software Engineer).
